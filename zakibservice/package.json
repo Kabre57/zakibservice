@@ -1,5 +1,5 @@
 {
-  "name": "zakib-service",
+  "name": "zakib_services",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
